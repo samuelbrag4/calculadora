@@ -13,6 +13,11 @@
     text-align: center;
 }
 
+h2 {
+    color: rgb(116, 116, 116);
+    text-decoration: overline;
+}
+
 /* Formatação da calculadora */
 .calculadora {
     position: absolute;
